@@ -1,10 +1,11 @@
 
 <h1 align="center"> <span style="color: brown">"Assalamu Alaikum"</span> </h1>
 <h4 align="center"> "Welcome To My Profile 💐" </h4>
-
+<!--
 <p align="center">
 <img src="https://iili.io/2xvebol.jpg" alt="Welcome Image" width="250" height="200">
 </p>
+-->
 
 <h5 align="center">
     I am a Computer Science and Engineering student, always eager to learn new things. 
