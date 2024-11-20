@@ -14,15 +14,16 @@
 </h5>
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **PHP projects using Laravel**.
+- 🔭 I’m currently working on **HRM SOFTWARE**.
 - 🌱 I’m learning **advanced Laravel features** and **RESTful APIs**.
-- 👯 I’m looking to collaborate on **open-source PHP projects**.
+- 👯 I’m looking to collaborate on **PHP **.
 - 🤝 I’m seeking help with **PHP and Laravel best practices**.
 - 👨‍💻 You can find my projects on [my GitHub](https://github.com/ArifHossen005).
 - 📝 I occasionally write articles on [my Facebook](https://www.facebook.com/iamarifhossen).
 - 💬 Feel free to ask me about **ICT-related questions**.
-- 📫 How to reach me: **arifsohag2500@gmail.com**.
-- 📄 I also have experience with **C programming**, **Java**, and **database management**.
+- 📫 How to reach me: **https://join.skype.com/invite/yMiHDRmu86sI**.
+- 📫 How to Contact me: **arifh@xpeedstudio.com**.
+- 📄 I also have experience with **C programming**, and **database management**.
 
 ## 🚀 Languages and Tools:
 <p align="left">
